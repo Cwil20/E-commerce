@@ -16,21 +16,21 @@ body{
 }
 /*=========Slider Section ============*/
 .carousel-item{
-    height: 600px;
+  height: 600px;
 }
 .carousel-image-1{
-    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), 
-    url('./Images/hero-image.jpg');
-    background-size: cover;
+  background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
+   url('./img/rock1.jpg');
+  background-size: cover;
 }
 .carousel-image-2{
     background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url('./Images/image9.jpg');
+     url('./img/rock2.jpg');
     background-size: cover;
 }
 .carousel-image-3{
     background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url('./Images/image1.jpg');
+     url('./img/rock3.jpg');
     background-size: cover;
 }
 .h-color{
