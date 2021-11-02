@@ -12,37 +12,37 @@ body{
     outline: none !important;
 }
 .bg-black{
-    background: #000;
+    background: #B98325;
 }
 /*=========Slider Section ============*/
 .carousel-item{
-    height: 600px;
+  height: 600px;
 }
 .carousel-image-1{
-    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), 
-    url('./Images/hero-image.jpg');
-    background-size: cover;
+  background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
+   url('./img/rock1.jpg');
+  background-size: cover;
 }
 .carousel-image-2{
     background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url('./Images/image9.jpg');
+     url('./img/rock2.jpg');
     background-size: cover;
 }
 .carousel-image-3{
     background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url('./Images/image1.jpg');
+     url('./img/rock3.jpg');
     background-size: cover;
 }
 .h-color{
-    color:#fff;
+    color:#B98325;
 
 }
 .btn-color{
-    background: #000;
-    color: #fff;
+    background: white;
+    color: #B98325;
 }
 .btn-color:hover{
-    color: #fff;
+    color: white;
 }
 /* Wobble Vertical */
 @-webkit-keyframes slide-btn {
@@ -110,13 +110,13 @@ body{
       display: inline-block;
       font-size: 32px;
       margin-bottom: 16px;
-      color: #000;
+      color: #B98325;
       padding: 8px 16px;
   }
   /*======End of Service Section====*/
   /*=======Products section=======*/
   #products{
-    background:#000;
+    background:#B98325;
   }
   .product-title{
     color: #fff;
@@ -222,7 +222,7 @@ body{
 }
 /*Best Seller== */
 .seller{
-  background: #000;
+  background: #B98325;
   color: #fff;
   margin-top: 30px;
 }
@@ -261,10 +261,9 @@ body{
 /* End of Best Seller==*/
 /*Contact us */
 .btn-color{
-  background: #000;
+  background: #B98325;
   color: #fff;
 }
-
 /* Wobble Vertical */
 @-webkit-keyframes cont-btn {
   16.65% {
@@ -327,7 +326,7 @@ body{
 }
 /*==Footer===*/
 .footer{
-  background: #000;
+  background: #B98325;
   color: #fff;
 }
 .fab{
